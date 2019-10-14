@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-webapp-boilerplate",
+  "version": "1.0.0",
+  "description": "boilerplate discord bot for commission projects",
+  "scripts": {
+	  "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leap874-Development/nodejs-webapp-boilerplate.git"
+  },
+  "author": "William Gardner",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Leap874-Development/nodejs-webapp-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Leap874-Development/nodejs-webapp-boilerplate#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "lowdb": "^1.0.0"
+  }
+}
