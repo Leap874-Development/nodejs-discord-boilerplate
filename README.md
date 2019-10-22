@@ -1,10 +1,6 @@
 # Template Bot v1.0
 By [William Gardner](https://github.com/wg4568/), written for _@user_ on Fiverr
 
-## Order Details
-
-**$X** with **X day delivery** ordered on X/X/X
-
 ## Installation
 
 To set up your system, you will need to do the following
